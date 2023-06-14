@@ -30,7 +30,8 @@ public class random {
         scanner.close();
     }
 }
-
+//TO run this, save the file as name: Random.java 
+//This project is inspired form AI tools 
  
     
 
