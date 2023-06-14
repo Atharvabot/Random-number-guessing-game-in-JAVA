@@ -8,7 +8,7 @@ public class random {
         int attempts = 0;
         
         System.out.println("Welcome to the Number Guessing Game!");
-        System.out.println("I'm thinking of a number between 1 and 100. Can you guess it?");
+        System.out.println("Thinking of a number between 1 and 100. Can you guess it?");
         
         Scanner scanner = new Scanner(System.in);
         int guess;
@@ -31,7 +31,7 @@ public class random {
     }
 }
 //TO run this, save the file as name: Random.java 
-//This project is inspired form AI tools 
+
  
     
 
